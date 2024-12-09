@@ -1,8 +1,36 @@
-# React + Vite
+# Website OPPRA 2024-2025 Ar-Rahmat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Organisasi Pelajar Pondok Pesantren Ar-Rahmat** (OPPRA) Masa Bakti 2024-2025, Bojonegoro.  
+Website ini menjadi pusat informasi tentang pengelolaan kegiatan santri serta memperkenalkan organisasi kepada masyarakat luas.
 
-Currently, two official plugins are available:
+## **Fitur Utama**
+1. **Halaman Beranda**  
+   - Menampilkan sambutan singkat tentang OPPRA.  
+   - Foto anggota organisasi masa bakti saat ini.  
+   - Penjelasan tentang tujuan dan peran OPPRA.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Halaman Profil**  
+   - Informasi tentang sejarah, visi, dan misi organisasi.  
+   - Detail terkait Pondok Pesantren Modern Ar-Rahmat.  
+
+3. **Halaman Divisi**  
+   - Struktur organisasi lengkap dengan Ketua, Wakil Ketua, Sekretaris, Bendahara, dan Kepala Divisi.  
+   - Informasi visual tentang masing-masing divisi, seperti:  
+     - **Divisi Keamanan**  
+     - **Divisi Kesehatan**  
+     - **Divisi BOT** (Bidang Olahraga dan Teknologi)  
+     - **Divisi Penerangan**  
+     - **Divisi Takmir**  
+     - **Divisi Bahasa**  
+
+4. **Halaman Event**  
+   - Informasi kegiatan terbaru yang diselenggarakan oleh OPPRA.  
+   - Deskripsi singkat dan dokumentasi foto kegiatan.
+
+- **Teknologi yang Digunakan**:  
+  - **Frontend**: HTML5, CSS3, React js, dan JavaScript.  
+  - **Backend**: - 
+---
+
+Website ini adalah langkah inovatif dalam memanfaatkan teknologi digital untuk mendukung kegiatan di Pondok Pesantren Modern Ar-Rahmat.  
+Kami berharap website ini dapat menjadi media informasi yang bermanfaat bagi santri, pengurus, dan masyarakat umum.
