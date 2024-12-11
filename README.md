@@ -11,14 +11,14 @@ Website ini menjadi pusat informasi tentang pengelolaan kegiatan santri serta me
 
 2. **Halaman Profil**  
    - Informasi tentang sejarah, visi, dan misi organisasi.  
-   - Detail terkait Pondok Pesantren Modern Ar-Rahmat.  
+   - Detail terkait Pondok Pesantren Modern Ar Rahmat.  
 
 3. **Halaman Divisi**  
-   - Struktur organisasi lengkap dengan Ketua, Wakil Ketua, Sekretaris, Bendahara, dan Kepala Divisi.  
+   - Struktur organisasi lengkap dengan Ketua, Wakil Ketua, Sekretaris, Bendahara, dan Ketua Divisi.  
    - Informasi visual tentang masing-masing divisi, seperti:  
      - **Divisi Keamanan**  
      - **Divisi Kesehatan**  
-     - **Divisi BOT** (Bidang Olahraga dan Teknologi)  
+     - **Divisi BOT** (Belanegara Olahraga dan Teknologi)  
      - **Divisi Penerangan**  
      - **Divisi Takmir**  
      - **Divisi Bahasa**  
