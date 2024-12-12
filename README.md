@@ -18,7 +18,7 @@ Website ini menjadi pusat informasi tentang pengelolaan kegiatan santri serta me
    - Informasi visual tentang masing-masing divisi, seperti:  
      - **Divisi Keamanan**  
      - **Divisi Kesehatan**  
-     - **Divisi BOT** (Belanegara Olahraga dan Teknologi)  
+     - **Divisi BOT** (Belanegara, Olahraga dan Teknologi)  
      - **Divisi Penerangan**  
      - **Divisi Takmir**  
      - **Divisi Bahasa**  
